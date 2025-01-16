@@ -6,7 +6,7 @@
     "email": "kanaka21@hawaii.edu",
     "phone": "(808) 693-6515",
     "website": "https://kathrynan.github.io",
-    "summary": "I am studying for a BA in Information and Computer Science at the University of Hawai'i at Manoa, and have passed all the required classes to obtain a minor in Business. I expect to graduate in Spring, 2027.",
+    "summary": "I am studying for a BA in Computer Science at the University of Hawai'i at Manoa, and have passed all the required classes to obtain a minor in Business. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96821", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "kathrynan", "url": "http://github.com/kathrynan" },
@@ -14,28 +14,28 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Game Development" },
+    { "name": "Web Design" },
+    { "name": "Musical Theater" },
+    { "name": "Costume Design" },
+    { "name": "D&D" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows 11", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2027)",
+      "studyType": "B.A.",
+      "startDate": "2024-01-08",
       "endDate": "Present",
       "courses": [
       ]
