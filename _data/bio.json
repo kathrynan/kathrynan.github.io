@@ -1,18 +1,16 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kathryn Nakagawa",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "email": "kanaka21@hawaii.edu",
+    "phone": "(808) 693-6515",
+    "website": "https://kathrynan.github.io",
+    "summary": "I am studying for a BA in Information and Computer Science at the University of Hawai'i at Manoa, and have passed all the required classes to obtain a minor in Business. I expect to graduate in Spring, 2027.",
+    "location": { "address": "", "postalCode": "96821", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "kathrynan", "url": "http://github.com/kathrynan" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/kathryn-nakagawa-6b1996290/" }
     ]
   },
   "interests": [
