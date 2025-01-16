@@ -43,27 +43,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Kennedy Theater Costume Shop",
+      "position": "Firsthand Seamsperson",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-09-06",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Seamstress that make costumes for the semester shows",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Start and continue costume projects for upcoming performances",
+        "Maintain and upkeep the work area, machines, and inventory for the shop"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH ICS Department",
+      "position": "ICS 101 Lab Assistant",
+      "website": "",
+      "startDate": "2025-01-10",
+      "endDate": "Present",
+      "summary": "Assists ICS 101 students during their computer labs",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Aid students that are falling behind/confused to ensure the whole class is keeping up",
+        "Help any Assistant TAs with planning their lab activities"
       ]
     }
   ],
