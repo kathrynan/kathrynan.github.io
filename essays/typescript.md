@@ -9,8 +9,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-<img width="500px" 
-     class="rounded float-start pe-4" 
+<img width="500px"
      src="../img/cotton/typescript.png" >
      
 ## Hello TypeScript
