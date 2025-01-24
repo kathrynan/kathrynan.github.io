@@ -10,6 +10,7 @@ labels:
   - Learning
 ---
 <img width="500px"
+     class="float-start pe-4" 
      src="../img/cotton/typescript.png" >
      
 ## Hello TypeScript
