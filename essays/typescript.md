@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-<img width="200px" 
+<img width="500px" 
      class="rounded float-start pe-4" 
      src="../img/cotton/typescript.png" >
      
