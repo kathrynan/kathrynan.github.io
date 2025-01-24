@@ -1,17 +1,22 @@
 ---
 layout: essay
 type: essay
-title: "tbd"
+title: "TypeScript: The Language I Never Knew Existed"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2025-01-23
 published: true
 labels:
   - Software Engineering
   - Learning
 ---
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+Hello TypeScript
+I never knew about TypeScript until I started my journey in ICS 314, also known as software engineering. My experience with coding stopped at JavaScript, C/C++, and HTML/CSS if you counted that sort of thing. Thankfully, TypeScript was very intuitive to learn having background knowledge in other languages. In my opinion, it is a very beginner-friendly language, having many easy-to-understand concepts and vocabulary. As for whether or not it is a good software engineering language, I do not believe I have enough experience or knowledge to answer.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+TypeScript, in addition to being easy to pick up, was very fun to learn. There were several videos and exercises that covered how to code in TypeScript, which were all very enjoyable. In addition to the homework, there was a practice WOD where we coded a function to calculate temperature in both Celcius and Fahrenheit. It was a very fun exercise, and I felt more confident in my understanding of the language after that day.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+Growing Pain With WODs
+WODs, otherwise known as "Workout of the Day", are quite a new experience for me. In my optinion, they are very similar to pop quizzes, since you don't know what question you will be asked until it is revealed in-class, and it covers material we learned throughout the week. Being not very fluent in coding languages, TypeScript especially, WODs add an extra layer of anxiety to the class. The pressure of a time limit usually results in me forgetting all relevant information needed for the exercise. Best case scenario: it is a little demoralizing. I have never reaped many benefits from timed exercises, but I do not wish to complain and only hope it at least motivates me to study hard in advance.
+
+Conclusion
+Overall, I'm quite excited to see what lessons are in store, when it comes to learning more about software engineering. As a computer science major specificially, I have not delved into the engineering aspect of technology all that much. So I am eagerly waiting to see what the next few months bring and what fun projects are coming up next.
