@@ -24,4 +24,4 @@ WODs, otherwise known as "Workout of the Day", are quite a new experience for me
 ## Conclusion
 Overall, I'm quite excited to see what lessons are in store when it comes to learning more about software engineering. As a computer science major specifically, I have not delved into the engineering aspect of technology all that much. So I am eagerly waiting to see what the next few months bring and what fun projects are coming up next.
 
-* AI was not used in the making or revising of this essay.
+*AI was not used in the making or revising of this essay.*
