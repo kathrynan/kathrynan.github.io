@@ -9,7 +9,10 @@ labels:
   - Software Engineering
   - Learning
 ---
-
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/cotton/typescript.png" >
+     
 ## Hello TypeScript
 I never knew about TypeScript until I started my journey in ICS 314, also known as software engineering. My experience with coding stopped at JavaScript, C/C++, and HTML/CSS if you counted that sort of thing. Thankfully, TypeScript was very intuitive to learn having background knowledge in other languages. In my opinion, it is a very beginner-friendly language, having many easy-to-understand concepts and vocabulary. As for whether or not it is a good software engineering language, I do not believe I have enough experience or knowledge to answer.
 
