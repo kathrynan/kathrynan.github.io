@@ -38,5 +38,3 @@ Brother: "..."
 </pre>
 
 <hr>
-
-Source: <a href="https://uhmanoagamedev.itch.io/rusted-heart"><i class="link to itch.io"></i></a>
