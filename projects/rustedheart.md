@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/roboticon.png
 title: "Rusted Heart"
-date: 2024-03
+date: 2024
 published: true
 labels:
   - Unity
