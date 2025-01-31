@@ -21,38 +21,20 @@ This game jam was one of the first I had ever participated in, and although the 
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+The scene opens up to the main character, a robot who we know as "Brother" with his robot sister and bus uncle at a run-down gas station. The player gets the chance to move around and interact with his surroundings.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+Brother: "Sis, are you sure you want to come along? You know the stories Uncle has told us about the city, and it's not safe for you to be wandering around without a battery."
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+Sister: "Well... unless I get a replacement soon, I'm going to die anyway. We don't really have any other options."
+  "And I don't want you to go alone. Besides, Uncle will be there to help us too."
 
-pickup candle
-- you are now carrying the candle -
+Brother: "I just don't like that we don't even know where exactly in the city we're going..."
 
-pickup match
-- you are now carrying the match -
+Sister: "I'm not afraid. We'll find the junkyard. I know we will."
 
-light match candle
+Brother: "..."
+  "You're right."
 
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
 </pre>
 
 <hr>
