@@ -14,7 +14,7 @@ summary: "In order to become a fully-fledged lab assistant, I had to teach an in
 ---
 
 <img width="450px"
-     class="float-start pe-4" 
+     class="float-end pe-4" 
      src="../img/cotton/htmlcode.jpg" >
 
 ### Assistant Teaching Assistant?
