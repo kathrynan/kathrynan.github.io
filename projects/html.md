@@ -13,7 +13,9 @@ labels:
 summary: "In order to become a fully-fledged lab assistant, I had to teach an introductory lesson about HTML and Visual Studio Code."
 ---
 
-<img class="img-fluid" src="../img/cotton/htmlcode.jpg">
+<img width="450px"
+     class="float-start pe-4" 
+     src="../img/cotton/htmlcode.jpg" >
 
 ### Assistant Teaching Assistant?
 In my Fall 2024 semester, I had the opportunity to be an ATA for the introductory ICS 101 class at UH Manoa. Although this class was not a requirement to graduate with a degree in computer science, I had taken it due to my previous background as a business major. As a result, I knew a bit more going in how the labs operated and what they'd teach.
