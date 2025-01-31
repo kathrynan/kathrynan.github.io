@@ -3,7 +3,7 @@ layout: project
 type: project
 image:
 title: "Teaching VS Code"
-date: 2024
+date: 2024-11-20
 published: true
 labels:
   - Teaching Assistant
