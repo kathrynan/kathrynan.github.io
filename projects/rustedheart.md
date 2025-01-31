@@ -12,7 +12,7 @@ labels:
 summary: "A rythmn-based RPG created for the UH Manoa Game Dev Club's Spring 2024 game jam."
 ---
 
-<img class="img-fluid" src="../img/cotton/rustedheart.png">
+<img class="img-fluid" src="../img/cotton/roboticon.png">
 
 Rusted Heart is a short RPG created by the Game Dev Club at the Univeristy of Hawai'i at Manoa's Spring 2024 game jam. The game follows a little robot who is on a quest to find a new heart for his sister, who is quickly losing function. The player can explore different maps and talk to multiple NPCs for advice, where they can either negotiate or fight their way to get what they want. If the player chooses to "fight", the player is thrown into a rhythm game sequence that they must complete successfully in order to gain the information they need. The game is a quick yet immersive experience, filled with different scenes and characters to make the world feel alive.
 
@@ -57,4 +57,4 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: <a href="[https://github.com/jogarces/ics-313-text-game](https://uhmanoagamedev.itch.io/rusted-heart)"><i class="link to itch.io"></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://uhmanoagamedev.itch.io/rusted-heart"><i class="link to itch.io"></i></a>
