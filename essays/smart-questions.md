@@ -19,6 +19,7 @@ I have always found different ways to interpret the aforementioned phrase, and y
 
 Here is an example of a smart question:
 
+
 ```
 Q: How to validate a receipt on server side with StoreKit 2?
 
