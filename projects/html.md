@@ -81,7 +81,3 @@ Despite the change and the fact that I'd never taught a class before, the TAs gr
 Because I had to teach HTML and Visual Studio Code to introductory students, who I have to assume do not know anything about the two subjects, it really pushed me to return to the basics and understand every single line of code I wrote. I wanted to feel confident enough that I could explain everything in a simple, easy to comprehend manner. Often times, people who are really skilled in their craft do not know how to teach beginners, because they forget what it was like to learn the subject for the first time. So teaching the lesson really helped me to step out of that mindset and try to explain things as simply as possible (and I got better at HTML as a bonus).
 
 At the time of creating this project, I've had the opportunity to return as a newly hired lab assistant. Now, with my HTML teaching day deemed an A+ success, I'm extremely prepared for when the lesson comes up again at the end of the semester.
-
-
-
-Source: <a href="https://uhmanoagamedev.itch.io/rusted-heart"><i class="link to itch.io"></i></a>
