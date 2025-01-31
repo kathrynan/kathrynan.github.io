@@ -11,7 +11,7 @@ labels:
 ---
 <img width="450px"
      class="float-start pe-4" 
-     src="../img/cotton/typescript.png" >
+     src="../img/cotton/splitscreen.jpg" >
      
 ### From Software Development...
 Now I know the title may be a little infuriating to some people, because *of course* there's a difference between software development and software engineering. I have only delved into the world of software development myself, and I have a few friends who tell me about their wildly different experiences as computer engineering majors; however, one of the few classes comptuer science and computer engineer majors share is ICS 314: Software Engineering.
