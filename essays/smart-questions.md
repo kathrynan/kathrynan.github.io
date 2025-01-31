@@ -62,4 +62,4 @@ First off, the title of the question does not give any indication as to what the
 ### Conclusion
 Smart questions are not just so we can get the answers we need, but also so people can understand along with us when they try to help solve our code. Especially with larger projects, making our work easier to process is a mandatory courtesy we should extend when asking for help. Smart questions benefit both sides, and everyone learns as a result.
 
-**ChatGPT was used to generate the "not-so smart" question.**
+*ChatGPT was used to generate the "not-so smart" question.*
