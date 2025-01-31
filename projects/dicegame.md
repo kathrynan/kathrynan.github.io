@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: img/cotton/dicegame.png
 title: "Dice Game"
 date: 2024-05-01
 published: true
