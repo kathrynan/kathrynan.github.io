@@ -4,7 +4,7 @@ type: essay
 title: "Are Coding Standards Overly Complicated?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-13
-published: false
+published: true
 labels:
   - VS Code
   - ESLint
