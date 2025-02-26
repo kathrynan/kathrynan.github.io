@@ -4,7 +4,7 @@ type: project
 image: img/cotton/t1_replica.png
 title: "T1 Online Shop Replica"
 date: 2/25/2025
-published: false
+published: true
 labels:
   - HTML
   - CSS
