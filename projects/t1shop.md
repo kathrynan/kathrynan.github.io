@@ -34,7 +34,7 @@ Here is some example code:
                 <li class="dropdown text-light p-3"><strong>COMMUNITY</strong></li>
             </ul>
     
-            <!--T1 Logo (Centered)-->
+            <!--T1 Logo-->
             <div class="mx-auto">
                 <a class="navbar-brand" href="#">
                     <img src="t1_logo.png" width="auto" height="35" alt="">
