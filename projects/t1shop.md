@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/cotton/t1_replica.png
+image: img/cotton/t1_shop.png
 title: "T1 Online Shop Replica"
-date: 2/25/2025
+date: 2025-02-25
 published: true
 labels:
   - HTML
