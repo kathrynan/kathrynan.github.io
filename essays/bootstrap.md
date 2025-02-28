@@ -12,7 +12,7 @@ labels:
   - Bootstrap
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/cotton/t1_replica.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/cotton/t1_replica.png">
 
 Whenever the subject of UI comes up, I seem to be the only person who actually likes using frameworks like HTML. It holds a special place in my heart, since it was one of the reasons why I became a computer science major in the first place. I was an exploratory business major taking the mandatory ICS101 class, and one of the last lessons was an introductory course on HTML and CSS. I remember having so much fun figuring out how to make the website more customizable, that I didn't care if I had to go in and fix infuriatingly minor errors in the end. So when ICS314 began to revisit similar concepts, I was absolutely thrilled.
 
