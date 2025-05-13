@@ -17,6 +17,8 @@ When it comes to group project work, no matter how bad the situation gets, I hav
 
 I made my effort estimates based on how confident I was at each task, as well as how much coding effort it would take. I knew that coding would take a lot more time and effort than just writing, even if I was confident I knew how to code the task I was given. I gave myself at least an hour if I knew I had to code something, and I based my estimates off of what and how much I needed to write.
 
+<img width="300px" class="rounded float-end pe-4" src="../img/cotton/gymbuddy-explore">
+
 ### How It Affected the Process
 
 I did not see any immediate benefits to making effort estimates in advance, since I would either be writing and not focusing on the time, or constantly worrying over how much time had passed and not actually focusing on writing/fixing the code. This applies to the WODs as well, but I already know I do better when there isn’t any kind of time constraint or deadline looming over my coding. It allows me to focus more on problem solving rather than making and fixing something within a time limit.
