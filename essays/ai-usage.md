@@ -16,6 +16,8 @@ labels:
 
 With the exponential growth in technology over the past several decades, it's no wonder that AI is the next up-and-coming, rising star that's shaking the world. Disregarding the many controversies surrounding AI for the sake of this essay, AI is changing the education and software engineering sphere for better or worse. AI is already being used as another search engine that answers your questions, and students are using it to help complete their homework (and exams). While the technology behind AI isn't perfect, and the information it provides is not always correct, schools around the world are attempting to adapt quickly with the inevitable rise and improvement of AI.
 
+<img width="400px" class="float-start pe-4" src="../img/cotton/chatgpt-logo.png">
+
 Software engineering, in a similar vein, has been made more.. accessible due to the use of AI. It can create code from prompts, find and fix errors without you needing to look through your work, and switch/transcribe code between different programming languages. It's such a useful tool, but also a temptation that is hard to resist. To share some of my personal experience in my software engineering class specifically, I normally use AI when it comes to solving bugs. With the assignments becoming more lengthy and complicated, having AI go through the work and finding the problem code is a time (and life) saver. In the beginning it was ChatGPT, as that was the only one known to me, but around halfway through I switched to Copilot since it occasionally gave more in-depth explanations.
 
 
@@ -40,6 +42,8 @@ A part of the process when it comes to learning what certain code does, for me, 
 #### Asking & Answering Questions
 
 Unfortunately, I didn't really ask or answer a lot of questions in the discord, so I can't say whether or not I would have used AI for this area. A lot of the questions I had were answered via Google or forum posts, so I never posted questions to the discord channel.
+
+<img width="400px" class="float-start pe-4" src="../img/cotton/coding-ai.jpeg">
 
 
 ### Impact on Learning & Understanding
