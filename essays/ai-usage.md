@@ -38,8 +38,12 @@ A part of the process when it comes to learning what certain code does, for me, 
 
 #### Asking & Answering Questions
 
+Unfortunately, I didn't really ask or answer a lot of questions in the discord, so I can't say whether or not I would have used AI for this area. A lot of the questions I had were answered via Google or forum posts, so I never posted questions to the discord channel.
+
 
 ### Impact on Learning & Understanding
+
+I am very aware that AI hinders my ability to retain and fully comprehend learned information/skills. Often times, I just need to "bash my head against the wall" until I get it, but AI is too convenient and allows me to search up the answer almost immediately. While it does help in a pinch, in the long term I would much rather take more time to learn every subject than speed through using AI.
 
 
 ### Practical Applications
