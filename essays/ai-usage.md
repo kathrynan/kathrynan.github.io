@@ -43,7 +43,7 @@ A part of the process when it comes to learning what certain code does, for me, 
 
 Unfortunately, I didn't really ask or answer a lot of questions in the discord, so I can't say whether or not I would have used AI for this area. A lot of the questions I had were answered via Google or forum posts, so I never posted questions to the discord channel.
 
-<img width="400px" class="float-start pe-4" src="../img/cotton/coding-ai.jpeg">
+<img width="400px" class="float-start pe-4" src="../img/cotton/coding-ai.jpg">
 
 
 ### Impact on Learning & Understanding
