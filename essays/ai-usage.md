@@ -21,9 +21,9 @@ Software engineering, in a similar vein, has been made more.. accessible due to 
 
 ### Personal Experience with AI
 
-This section will be written with the purpose of reflecting on the past few months to see how AI has affected my understanding and learning in my software engineering class. The explanations and experiences will be strictly about this class (ICS314), and the examples will reflect as such.
+<img width="150px" class="float-end pe-4" src="../img/cotton/chatgpt-logo.png">
 
-<img width="100px" class="float-end pe-4" src="../img/cotton/chatgpt-logo.png">
+This section will be written with the purpose of reflecting on the past few months to see how AI has affected my understanding and learning in my software engineering class. The explanations and experiences will be strictly about this class (ICS314), and the examples will reflect as such.
 
 #### WODs
 
