@@ -4,7 +4,7 @@ type: essay
 title: "Development vs. Engineering: What's the Difference?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
