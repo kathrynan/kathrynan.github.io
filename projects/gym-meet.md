@@ -9,6 +9,7 @@ labels:
   - React
   - Prisma
   - Bootstrap
+  - Github
 summary: "A website that allows UHM students to befriend other students and go to the gym together."
 ---
 
