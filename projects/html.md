@@ -4,7 +4,7 @@ type: project
 image: img/cotton/htmlkeys.jpg
 title: "Teaching VS Code"
 date: 2024-11-20
-published: true
+published: false
 labels:
   - Teaching Assistant
   - VS Code
