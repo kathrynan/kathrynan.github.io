@@ -13,8 +13,7 @@ summary: "A rythmn-based RPG created for the UH Manoa Game Dev Club's Spring 202
 ---
 
 <img class="rounded float-end pe-4" src="../img/cotton/rustedheart.png">
-Title Screen by Anne Di Martino
-Robot Icon by Christian Wall
+Title Screen by, Anne Di Martino | Robot Icon, by Christian Wall
 
 Rusted Heart is a short RPG created by the Game Dev Club at the Univeristy of Hawai'i at Manoa's Spring 2024 game jam. The game follows a little robot who is on a quest to find a new heart for his sister, who is quickly losing function. The player can explore different maps and talk to multiple NPCs for advice, where they can either negotiate or fight their way to get what they want. If the player chooses to "fight", the player is thrown into a rhythm game sequence that they must complete successfully in order to gain the information they need. The game is a quick yet immersive experience, filled with different scenes and characters to make the world feel alive.
 
