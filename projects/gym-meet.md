@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/cotton/gymbuddy-home.png
 title: "Gym Meet"
-date: 2025
+date: 2025-05-12
 published: true
 labels:
   - React
@@ -13,9 +13,9 @@ summary: "A website that allows UHM students to befriend other students and go t
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/cotton/gymbuddy-login.png" class="img-thumbnail" >
+  <img width="200px" src="../img/cotton/gymbuddy-faq.png" class="img-thumbnail" >
+  <img width="200px" src="../img/cotton/gymbuddy-explore.png" class="img-thumbnail" >
 </div>
 
 This website was a group project as a final for our ICS314: Software Engineering course. To give more context, we split into groups of 4-5 people and had to create a website design and implement it before the semester ended. We had to use whatever we learned throughout the class in our website, and we had approximately one month to do so. I teamed up with some friends, and we decided to create a website we dubbed "Gym Meet" or "Gym Buddy".
