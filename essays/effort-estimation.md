@@ -17,7 +17,7 @@ When it comes to group project work, no matter how bad the situation gets, I hav
 
 I made my effort estimates based on how confident I was at each task, as well as how much coding effort it would take. I knew that coding would take a lot more time and effort than just writing, even if I was confident I knew how to code the task I was given. I gave myself at least an hour if I knew I had to code something, and I based my estimates off of what and how much I needed to write.
 
-<img width="300px" class="rounded float-end pe-4" src="../img/cotton/gymbuddy-explore">
+<img width="300px" class="rounded float-end pe-4" src="../img/cotton/gymbuddy-explore.png">
 
 ### How It Affected the Process
 
