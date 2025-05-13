@@ -39,3 +39,5 @@ Brother: "..."
 </pre>
 
 <hr>
+
+You can play Rusted Heart [here](https://uhmanoagamedev.itch.io/rusted-heart).
