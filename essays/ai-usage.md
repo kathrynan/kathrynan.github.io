@@ -3,11 +3,12 @@ layout: essay
 type: essay
 title: "AIs Place in Coding"
 # All dates must be YYYY-MM-DD format!
-date: 2024-04-01
+date: 2025-05-12
 published: true
 labels:
   - AI
   - ChatGPT
+  - Copilot
   - Learning
 ---
 
@@ -53,7 +54,9 @@ The world of AI is still very new to me, and I haven't dabbled in it much person
 
 ### Challenges & Opportunities
 
-As mentioned in the previous section, AI does have a lot of limitations at the moment.
+As mentioned in the previous section, AI does have a lot of limitations at the moment; however, when it comes to software engineering, it's one of the more proficient areas AI can work in. There is an aspect of the development side in which AI would not help as much, but I felt like that aspect of the class was meant to be more creative and loose. This was especially so when we created React, Bootstrap, and other versions of a website of our choosing. We had to work within the appearance of the original website, but trying to figure out how to make things match in appearance was very fun, in my opinion.
+
+I'm not sure how much more AI can be integrated into this software engineering course, as it's able to be used in almost every aspect of the class. Perhaps it can be used to provide more examples of how code can be written to produce a similar/the same outcome, therefore showing multiple ways students can solve a problem.
 
 
 ### Comparative Analysis
