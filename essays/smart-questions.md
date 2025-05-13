@@ -4,7 +4,7 @@ type: essay
 title: "Smarter Questions, Not Harder Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
-published: true
+published: false
 labels:
   - Questions
   - Answers
