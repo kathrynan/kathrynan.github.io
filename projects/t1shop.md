@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/t1_shop.png
+image: img/cotton/t1_replica.png
 title: "T1 Online Shop Replica"
 date: 2025-02-25
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A replica of the online shop for League of Legends team, T1, for my ICS314 class."
 ---
 
-<img class="img-fluid" src="../img/cotton/t1_replica.png">
+<img class="img-fluid" src="../img/cotton/t1_shop.png">
 
 For one of my ICS314 assignments, I had to create a lookalike of a website using Bootstrap. Due to my experience teaching HTML and CSS in ICS101 classes, I already had a strong background in this type of UI framework. In addition, as it was a relatively simple design (and a website no one else picked), I decided to create a duplicate of T1's online shop. T1 is a famous League of Legends team that has some of the best players in the world. I got into watching the World Championships with my partner, so I was quite excited to get started.
 
