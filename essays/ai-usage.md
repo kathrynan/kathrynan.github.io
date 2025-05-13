@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: "AIs Place in Coding"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-01
 published: false
@@ -11,3 +11,4 @@ labels:
   - Learning
 ---
 
+### Title
