@@ -4,7 +4,7 @@ type: essay
 title: "AIs Place in Coding"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-01
-published: false
+published: true
 labels:
   - AI
   - ChatGPT
@@ -48,8 +48,12 @@ I am very aware that AI hinders my ability to retain and fully comprehend learne
 
 ### Practical Applications
 
+The world of AI is still very new to me, and I haven't dabbled in it much personally, so I don't really have a lot of practical applications that come to mind. AI, when it comes to creativity, is very limited in its capabiltiies as it can only generate something from previously fed information or concepts. It can not come up with new, innovative ideas that a human could. As a lot of my interests stem in more creative spheres such as game development or UI design, the most I think AI could do would be to have pre-set designs that it tweaks depending on the user's wants. Personally, I would much rather have a human developing the games I play and create the designs I'm looking at.
+
 
 ### Challenges & Opportunities
+
+As mentioned in the previous section, AI does have a lot of limitations at the moment.
 
 
 ### Comparative Analysis
