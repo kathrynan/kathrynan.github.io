@@ -8,6 +8,7 @@ published: true
 labels:
   - Group Project
   - Effort Tracking
+  - Learning
 ---
 
 ## Making Effort Estimates
