@@ -28,4 +28,4 @@ Over the course of the month (April to May), we drew up drafts of the pages, fig
 The end result wasn't perfect, but for the time we had, we (the team) all agreed that we should be proud of the work we'd done and all we'd accomplished. Throughout the project, I was in charge of updating our website (linked below), implementing features into the footer, and connecting the database to the explore page so we could click on people's profile cards and redirect the user to their profile page. The latter was, by far, the most complicated task I did, especially since it was done close to the end of the project and we had so many files and folders to work around. We had some close calls with the website not working, but in the end the website was uploaded to Vercel and able to be viewed by anyone.
 
 
-You can view our team website (which includes reviews and developer/user guides) at  [UHM Gym Meet]([https://manoa.hawaii.edu/news/article.php?aId=2857](https://gym-meet.github.io/)).
+You can view our team website (which includes reviews and developer/user guides) at  [UHM Gym Meet](https://gym-meet.github.io/).
