@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "React" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows 11", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Windows 11", "UNIX", "Git/GitHub" ]
     }
   ],
   "education": [
